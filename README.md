@@ -14,7 +14,7 @@ a list of AI model maybe usefull
 
 ## Chat
 
-> [https://chat.deepseek.com/](https://chat.deepseek.com/)
-> [https://chat.mistral.ai/chat](https://chat.mistral.ai/chat)
-> [https://chat.vercel.ai/](https://chat.vercel.ai/)
-> [https://chatgpt.com/](https://chatgpt.com/)
+### [https://chat.deepseek.com/](https://chat.deepseek.com/)
+### [https://chat.mistral.ai/chat](https://chat.mistral.ai/chat)
+### [https://chat.vercel.ai/](https://chat.vercel.ai/)
+### [https://chatgpt.com/](https://chatgpt.com/)
